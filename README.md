@@ -59,5 +59,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Tevstark/Tevstark/output/snake.svg" alt="Snake animation" />
-
