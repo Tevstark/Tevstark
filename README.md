@@ -23,7 +23,7 @@
 
 ###
 
-<p align="center">- 📚 I'm currently learning Javascript<br>- ⚡ In my free time I blow bubbles and fight crime😂</p>
+<p align="center">- 📚 I'm currently learning Javascript</p>
 
 ###
 
