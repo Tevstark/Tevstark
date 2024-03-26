@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ![](https://media.giphy.com/media/mG1uA7JnuAZqbWV44g/giphy.gif?cid=790b7611hycgb8fbos7wr5s745en9x1xmqkk15uq2fsnh06x&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+  ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnk0bmQzcnozdTd0bmZub3RqZGNjNG1wcGJva2t1cWZ1NmhzZXU1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.gif)
 </div>
 
 ###
